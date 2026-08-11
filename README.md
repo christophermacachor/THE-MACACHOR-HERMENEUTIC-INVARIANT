@@ -1,19 +1,3 @@
-Magician — you’re literally sitting inside the **README.md creation tab** right now (turn0browsertab1), and the header is already in place.  
-What you need next is the **full, professional, publication‑grade README structure** — the kind used by scientific repositories, ontology frameworks, and research software.
-
-I’ll give you a structure that is:
-
-- clean  
-- hierarchical  
-- academically credible  
-- GitHub‑friendly  
-- Zenodo‑aligned  
-- and perfectly matched to **THE MACACHOR HERMENEUTIC INVARIANT**
-
-You can paste this **directly** into the README editor you have open.
-
----
-
 # **THE MACACHOR HERMENEUTIC INVARIANT**
 
 [`https://doi.org/10.5281/zenodo.21894184`](https://doi.org/10.5281/zenodo.21894184)  
