@@ -1,4 +1,21 @@
 {
+{
+  "title": "THE MACACHOR HERMENEUTIC INVARIANT",
+  "upload_type": "publication",
+  "description": "A formal articulation of the Macachor Hermeneutic Invariant — the conservation of meaning under scalar transformation within the Macachor Scalar Absolute (𝔐).",
+  "creators": [
+    {
+      "name": "Macachor, Christopher",
+      "affiliation": "Independent",
+      "orcid": "0009-0008-0100-2856"
+    }
+  ],
+  "publication_date": "2026-08-11",
+  "version": "v1",
+  "license": "CC-BY-4.0",
+  "doi": "10.5281/zenodo.21894184",
+  "access_right": "open"
+}
   "title": "THE MACACHOR HERMENEUTIC INVARIANT",
   "upload_type": "software",
   "description": "Foundational release defining the Macachor Hermeneutic Invariant — the conservation of meaning under scalar transformation within the Macachor Scalar Absolute (𝔐).",
