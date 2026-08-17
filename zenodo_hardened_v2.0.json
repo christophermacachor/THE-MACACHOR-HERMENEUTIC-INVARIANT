@@ -1,0 +1,27 @@
+{
+  "title": "Macachor First Derivative: A Hardened Scalar-Substrate Theory of Structural Meaning Extraction",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "Version 2.0 of the Macachor scalar-substrate framework. This hardened edition explicitly separates established mathematics, Macachor framework definitions, cross-domain analogies, and falsifiable hypotheses. It defines the first derivative as a proposed minimal structural translation layer between an underlying scalar substrate and downstream representation.",
+  "creators": [
+    {
+      "name": "Macachor, Christopher",
+      "orcid": "0009-0008-0100-2856"
+    }
+  ],
+  "keywords": [
+    "Macachor First Derivative",
+    "scalar ontology",
+    "structural meaning",
+    "coherence",
+    "quantum computing",
+    "artificial intelligence",
+    "semantic extraction",
+    "information theory"
+  ],
+  "license": "cc-by-4.0",
+  "version": "2.0",
+  "language": "eng",
+  "access_right": "open",
+  "notes": "Hardened edition. Mathematical claims, framework definitions, analogies, and hypotheses are explicitly separated."
+}
